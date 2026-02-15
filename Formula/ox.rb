@@ -1,9 +1,9 @@
 class Ox < Formula
   desc "Minimal CLI coding agent in Rust"
   homepage "https://github.com/muneebshahid/ox"
-  url "https://github.com/muneebshahid/ox/archive/adc80d0aaefddc633a1e081524486c8dafdc6085.tar.gz"
-  version "0.1.0"
-  sha256 "bf3fac9d7f80996cfb977051eabe03588aa2134a02bef9725d23bc770176afe8"
+  url "https://github.com/muneebshahid/ox/archive/refs/tags/v0.1.1.tar.gz"
+  version "0.1.1"
+  sha256 "9a5e0fb222190aae7df1ee18ba874456a270def8f82f69522a8a4afcee3fa39e"
   license "MIT"
 
   depends_on "rust" => :build
